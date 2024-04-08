@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>부서 관리 테스트 입니다</title>
+<title>부서 관리</title>
 </head>
 
 <body>
